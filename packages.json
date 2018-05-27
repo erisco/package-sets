@@ -540,14 +540,6 @@
     "repo": "https://github.com/purescript/purescript-strings.git",
     "version": "v4.0.0"
   },
-  "symbols": {
-    "dependencies": [
-      "prelude",
-      "unsafe-coerce"
-    ],
-    "repo": "https://github.com/purescript-deprecated/purescript-symbols.git",
-    "version": "v3.0.0"
-  },
   "tailrec": {
     "dependencies": [
       "bifunctors",
