@@ -628,5 +628,11 @@
     ],
     "repo": "https://github.com/purescript/purescript-validation.git",
     "version": "v4.0.0"
+  },
+  "variant": {
+    "dependencies": [
+    ],
+    "repo": "https://github.com/natefaubion/purescript-variant.git",
+    "version": "v4.1.0"
   }
 }
