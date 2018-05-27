@@ -540,6 +540,14 @@
     "repo": "https://github.com/purescript/purescript-strings.git",
     "version": "v4.0.0"
   },
+  "symbols": {
+    "dependencies": [
+      "prelude",
+      "unsafe-coerce"
+    ],
+    "repo": "https://github.com/purescript-deprecated/purescript-symbols.git",
+    "version": "v3.0.0"
+  },
   "tailrec": {
     "dependencies": [
       "bifunctors",
@@ -631,6 +639,16 @@
   },
   "variant": {
     "dependencies": [
+      "enums",
+      "lists",
+      "maybe",
+      "partial",
+      "prelude",
+      "record",
+      "symbols",
+      "tuples",
+      "typelevel-prelude",
+      "unsafe-coerce"
     ],
     "repo": "https://github.com/natefaubion/purescript-variant.git",
     "version": "v4.1.0"
