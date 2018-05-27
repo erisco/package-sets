@@ -641,7 +641,7 @@
       "typelevel-prelude",
       "unsafe-coerce"
     ],
-    "repo": "https://github.com/natefaubion/purescript-variant.git",
-    "version": "v4.1.0"
+    "repo": "https://github.com/erisco/purescript-variant.git",
+    "version": "master"
   }
 }
