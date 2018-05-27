@@ -637,7 +637,6 @@
       "partial",
       "prelude",
       "record",
-      "symbols",
       "tuples",
       "typelevel-prelude",
       "unsafe-coerce"
